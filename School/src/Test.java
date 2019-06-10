@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("hhh ");
 		System.out.println("hhh ");
 		System.out.println("ee");
+		System.out.println("ww");
 	}
 
 }
